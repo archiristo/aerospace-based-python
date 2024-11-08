@@ -1,0 +1,8 @@
+Neptune Orbital periods: 164.8 Axial tilts: 28.32 
+Mercury Orbital periods: 0.24 Axial tilts: 0.03 
+Earth Orbital periods: 1.0 Axial tilts: 23.44 
+Mars Orbital periods: 1.88 Axial tilts: 25.19 
+Venus Orbital periods: 0.62 Axial tilts: 177.36 
+Saturn Orbital periods: 29.46 Axial tilts: 26.73 
+Jupiter Orbital periods: 11.86 Axial tilts: 3.13 
+Uranus Orbital periods: 84.01 Axial tilts: 82.23 

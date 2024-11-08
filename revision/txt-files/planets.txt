@@ -1,0 +1,8 @@
+Neptune Gravity(g): 1.12 Tempature(K): 50 
+Mercury Gravity(g): 0.38 Tempature(K): 440 
+Earth Gravity(g): 1.0 Tempature(K): 288 
+Mars Gravity(g): 0.38 Tempature(K): 210 
+Venus Gravity(g): 0.91 Tempature(K): 737 
+Saturn Gravity(g): 0.93 Tempature(K): 80 
+Jupiter Gravity(g): 2.34 Tempature(K): 120
+ Uranus Gravity(g): 0.92 Tempature(K): 60 
